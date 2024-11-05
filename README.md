@@ -1,4 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg)
+
 <h1 align="center">Hi 👋, I'm Mohammad Mashal</h1>
 <h3 align="center">A passionate back-end developer from Afghanistan</h3>
 <img align="right" alt "Coding" widh="20" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"
