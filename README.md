@@ -2,7 +2,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Mohammad Mashal</h1>
-<h3 align="center">A passionate back-end developer from Afghanistan</h3>
+<h3 align="center">A Junior Front-end website developer from Afghanistan</h3>
 <img align="right" alt "Coding" widh="20" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashalsarwari&label=Profile%20views&color=0e75b6&style=flat" alt="mashalsarwari" /> </p>
