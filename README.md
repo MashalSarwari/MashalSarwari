@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,**
 
-- 💬 Ask me about **back-end developer**
+- 💬 Ask me about **Front-end developer**
 
 - 📫 How to reach me **mohammadmashal.sarwari@gmail.com**
 
